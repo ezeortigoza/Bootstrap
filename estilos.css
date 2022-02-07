@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*estilos*/
+
+h1{
+ color:rgb(255, 0, 0) ;
+}
+
+.center{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.rojo{
+    color: #dc3545;
+}
+.blanco{
+    color: #fff;
+}
+.amarillo{
+    color: #000;
+}
+.textCenter{
+    text-align: center;
+}
+.left{
+    margin-left: 45%;
+}
+.top{
+    margin-top: 100px;
+}
+.letra{
+    font-size: xx-large;
+}
+.fondo{
+    background-color: white;
+}
+.abajo{
+     margin-top: 30%;
+}
+#body{
+    background-color: white;
+}
+#alto{
+   height: 10px;
+}
+.fondoo{
+    background-color: black;
+}
+.imgs{
+    text-align: center;
+
+}
+svg{
+    text-align: center;
+    color: #dc3545;
+}
+
